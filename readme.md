@@ -39,4 +39,4 @@ Guaranteed constraints:
 
 [output] integer
 
-The number of different 2 × 2 squares in matrix.
+The number of different 2 × 2 (two by two) squares in matrix.
